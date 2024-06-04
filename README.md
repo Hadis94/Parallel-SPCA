@@ -3,4 +3,4 @@ A parallel implementation of Sparce PCA with the CongradU method (or power metho
 
 To run the implementation, you can use the following command:
 
-mpirun -n 6 python Final.py
+- mpirun -n 6 python Final.py
